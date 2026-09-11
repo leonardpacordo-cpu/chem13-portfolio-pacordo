@@ -1,0 +1,4 @@
+The AI tools used for this activity were Perplexity AI and ChatGPT.
+Perplexity AI was used to help identify credible scientific and government sources, organize information about the selected compounds, suggest infographic content, and prepare an APA-style reference list.
+ChatGPT was used to help generate the infographic designs and visual layouts.
+I remained responsible for selecting the compounds, reviewing the generated content, confirming the accuracy of the molecular structures and chemical information, double-checking the properties, uses, risks, and chemical-engineering connections, and verifying the references used in the infographics. The APA-format reference list submitted with this activity was prepared separately and may differ from the reference list suggested by the AI tools.
