@@ -1,4 +1,38 @@
-AI Use Disclosure - CHEM 13 Asynchronous Activity No. 2
-Name: [your full name]
-AI tool used: Claude (Anthropic)
-How it was used: [fill in at the end]
+AI USE DISCLOSURE
+=================
+Course:    CHEM 13 - Organic Chemistry (Lecture)
+Activity:  Asynchronous Activity No. 2 - One Molecule, Four Representations
+Student:   Leonard Higgins B. Pacordo
+Date:      17 October 2026
+
+AI TOOL USED
+------------
+Claude (by Anthropic), through the claude.ai chat.
+
+OTHER TOOLS USED
+----------------
+- Ketcher: bond-line structures
+- MolView: Lewis structures, and as a reference to compare my drawings
+- PowerPoint / WPS: assembling the molecule cards
+
+WHAT THE AI WAS USED FOR
+------------------------
+- Explaining the activity instructions and requirements.
+- Suggesting a card layout and making the PowerPoint template, including
+  the compound names, formulas, condensed formulas, and atom counts.
+- Checking my bond-line and Lewis structures (atoms, bonds, hydrogens,
+  and lone pairs) and pointing out mistakes to fix.
+- Looking up formulas and names to cross-check them.
+- Editing and exporting the PowerPoint and PDF, and writing this
+  disclosure.
+
+WHAT I DID MYSELF
+-----------------
+- I drew all 10 bond-line structures in Ketcher.
+- I made the Lewis structures in MolView.
+- I checked every structure, formula, and label myself, including the
+  atom count, valence, bond order, and connectivity, and compared them
+  with the references we used, such as PubChem and other chemistry
+  databases. I corrected the mistakes that were found.
+
+I remain responsible for the correctness of everything I submitted.
